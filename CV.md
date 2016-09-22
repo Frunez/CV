@@ -32,21 +32,19 @@ Finished last 3 years of school in French, did an intensive summer course in Spa
 
 - Troubleshooting and attention to detail
 
-I have a good eye for spotting typos, or fragile code. My team mate from my last project still owes me a drink for fixing his delete method and several other minor code breaking issues.
+I have a good eye for spotting typos, or fragile code. My team mate from my last project still owes me the drink he promised for fixing his delete method and several other minor code breaking issues.
 
 - Problem solving
 
-Besides coding I've always been the one for fixing thing, fixed a radiator, fixed the flush, fixed a shower head, fixed a laptop, list goes on.
+I've always been the one for fixing things, not only when it comes to code, I've fixed a radiator, fixed the flush, fixed a shower head, fixed a laptop and much more.
 
 - Creative
 
-As a kid I built all kinds of Lego structures, made roman armour out of cardboard and played loads of construction video games which is what pushed me into the direction of graphic design. My major creative streak isn't artistically focused but more functionality focused, I love visualizing new, creative implementations to my creations. A clear and relevant example would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing).
-
-- Productive
+As a kid I built all kinds of Lego structures, made roman armour out of cardboard and played loads of construction video games which is what pushed me into the direction of graphic design. My major creative streak isn't artistically focused but more functionality focused. I love visualizing new, creative implementations. A clear and relevant example of how I use this skill would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing) which became the backbone of the AirBnB project.
 
 ### Education
 
-#### Makers Academy (March 2016 to July 2016)
+##### Makers Academy (March 2016 to July 2016)
 
     Disciplines: Independent learning and problem-solving
     General focus: Software Craftsmanship
@@ -54,20 +52,21 @@ As a kid I built all kinds of Lego structures, made roman armour out of cardboar
     Technologies learnt: Ruby, Rails, Javascript, Node.js, Angular.js
     Testing environments learnt: Rspec, Jasmine and Capybara
 
-#### University for the Creative Arts (September 2012 to June 2015)
+##### University for the Creative Arts (September 2012 to June 2015)
 
     Subject: Graphic Design
     Focus: Adobe Creative Suite, modern art history, semantics, branding and advertising
     Grade: 3rd
 
-#### Makers Academy projects
+##### Makers Academy projects
 
-| Name | Description | Technologies |
-|------|-------------|--------------|
-| [Devine](https://devine-github.herokuapp.com/) | A social web app for github users to network and communicate easily and efficiently | Ruby Rails, RSpec, Capybara, CSS/SASS |
-| [Comic Strip Builder](https://github.com/Rob-rls/comic-builder) | A web app where users can upload photos or pictures and add captions to create comic strips or storyboards | Ruby Rails, RSpec, CSS |
-| [Yelp Clone](https://github.com/Frunez/yalp/tree/master/yelp_clone) | A knock-off of Yelp for reserving and reviewing (fake) bed and breakfasts | Ruby Rails, RSpec, CSS |
-| [Thermostat](https://github.com/Frunez/thermostat) | A thermostat app, don't worry it won't do anything | Javascript, Jasmine |
+| Name | Description | Technologies | Github |
+|------|-------------|--------------|--------|
+| [Devine](https://devine-github.herokuapp.com/) | A social web app for github users to network and communicate easily and efficiently | Ruby Rails, RSpec, Capybara, CSS/SASS | [Devine Repo](https://github.com/SocialList/devine_app) |
+| [Comic Strip Builder]() | A web app where users can upload photos or pictures and add captions to create comic strips or storyboards | Ruby Rails, RSpec, CSS |[Comic Repo](https://github.com/Rob-rls/comic-builder) |
+| [Yelp Clone]() | A knock-off of Yelp for reviewing (fake) services | Ruby Rails, RSpec, CSS | [Yelp Repo](https://github.com/Frunez/yalp/tree/master/yelp_clone) |
+| [Thermostat]() | A thermostat app, don't worry it won't do anything | Javascript, Jasmine | [Thermostat Repo](https://github.com/Frunez/thermostat)
+| [AirBnB99](https://airbnb99.herokuapp.com/) | A site for users to reserve a room at a bed and breakfast | Ruby, RSpec | [AirBNB99 Repo](https://github.com/hannako/Lab_Week) |
 
 
 
@@ -75,8 +74,15 @@ As a kid I built all kinds of Lego structures, made roman armour out of cardboar
 
 Warehouse operative (March 2016 - June 2016)
 
+    - Worked in a team packaging and labelling luxury products for Fortnam and Mason.
+    - Worked at AIM composites, coating and polishing interior air plane parts to perfection.
+
 Freelance graphic designer (July 2015 - June 2016)
+
+    - Made and edited photographs of products for a beauty magazine.
+    - Created a book cover and some logos for CEPS.
+    - Illustrated a children's book called Bear & Chick for an independent writer.
 
 ### Hobbies
 
-Although I've decided to stop my pursuit of a career in graphic design, that hasn't stopped from experimenting creatively, and most recently I've delved into 3D graphics. I've played guitar for 9 years, and I love to produce my own music, inspired by the likes of Flying Lotus and many other artists across all genres. I also like to do some DIY because if I can make it myself, why buy it?  
+Although I've decided to stop my pursuit of a career in graphic design, that hasn't stopped from experimenting creatively, and most recently I've delved into 3D graphics. I've played guitar for 9 years. I love to produce my own music, inspired by the likes of Flying Lotus and many other artists across all genres. I also like to do some DIY because if I can make it myself, why buy it?  
