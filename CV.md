@@ -1,8 +1,8 @@
 # CV
 ## Francesco Nunez Alessi
-Born in Rome and shipped to UK and then back a bit to Belgium where I finished school. A clueless me decided to make a return back to the UK to study graphic design. Graduated, I started as a freelancer while trying to get a full-time job, in the meantime I worked in a factory, enjoyed that more than graphic design and thought it was time to move on...
+Born in Rome and shipped to the UK and then back a bit to Belgium where I finished school. A clueless me decided to make a return back to the UK to study graphic design. Graduated, I started as a freelancer while trying to get a full-time job, in the meantime I worked in a factory, enjoyed that more than graphic design and thought it was time to move on...
 
-Saving money was worth it, did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed The most I ever thought about it was pondering over whether or not we could actually be in the Matrix.
+Saving money was worth it, did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it was pondering over whether or not we could actually be in the Matrix.
 
 Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub. Just like Neo I felt that I had woken up saying "I know how to code".
 
@@ -10,14 +10,13 @@ With new found love for coding I am now looking for a job as a junior developer.
 
 ### Skills
 
-
 - Focused
 
-I had no experience on wood-work and building instruments. Took me three weeks to build a guitar body out of Ikea side-tables. Which I assembled into one of my most prized possessions.
+I had no experience on wood-work and building instruments. Took me three weeks to build an electric guitar body out of Ikea side-tables. Which I assembled into one of my most prized possessions. I named it ["Trikea"](https://www.behance.net/gallery/31988285/Trikea-Old-IKEA-furniture-put-to-good-use).
 
 - Resourceful
 
-I've also produced a photographic book, created entirely from my own work. I taught myself how to design in 3D, play guitar and produce music.
+I've also produced a [photographic book](https://www.behance.net/gallery/32004029/Transiendence), created entirely from my own work. I taught myself how to [design in 3D](https://www.behance.net/gallery/32002401/3D-Modelling-With-Blender), play guitar and [produce music](https://soundcloud.com/temka1991).
 
 - Analytical
 
@@ -52,6 +51,17 @@ Finished last 3 years of school in French, did an intensive summer course in Spa
     - Graphic Design
     - Adobe Creative Suite, modern art history, semantics, branding, advertising
     - 3rd
+
+#### Makers Academy projects
+
+| Name | Description | Technologies |
+|------|-------------|--------------|
+| [Devine](https://devine-github.herokuapp.com/) | A social web app for github users to network and communicate easily and efficiently | Ruby Rails, RSpec, Capybara, CSS/SASS |
+| [Comic Strip Builder](https://github.com/Rob-rls/comic-builder) | A web app where users can upload photos or pictures and add captions to create comic strips or storyboards | Ruby Rails, RSpec, CSS |
+| [Yelp Clone](https://github.com/Frunez/yalp/tree/master/yelp_clone) | A knock-off of Yelp for reserving and reviewing (fake) bed and breakfasts | Ruby Rails, RSpec, CSS |
+| [Thermostat](https://github.com/Frunez/thermostat) | A thermostat app, don't worry it won't do anything | Javascript, Jasmine |
+
+
 
 ### Experience
 
