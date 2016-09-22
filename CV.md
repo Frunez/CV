@@ -1,6 +1,6 @@
 # CV
 ## Francesco Nunez Alessi
-Born in Rome and shipped to the UK and then back a bit to Belgium where I finished school. A clueless me decided to make a return back to the UK to study graphic design. Graduated, I started as a freelancer while trying to get a full-time job, in the meantime I worked in a factory, enjoyed that more than graphic design and thought it was time to move on...
+Born in Rome and shipped to the UK and then back a bit to Belgium where I finished school. A clueless me decided to make a return back to the UK to study graphic design. Graduated, I started as a freelancer while trying to get a full-time job. In the meantime I worked in a factory, enjoyed that more than freelancing as a graphic designer and thought it was time to move on...
 
 Saving money was worth it, did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it was pondering over whether or not we could actually be in the Matrix.
 
@@ -24,33 +24,41 @@ If there's anything I've learnt at University, it's not to go head on into over-
 
 - Team player
 
-Through-out the Makers Academy course I was constantly working in pairs or in teams so communication and coordination was of utmost importance.
+Through-out the Makers Academy course I was working in pairs or in teams every day so communication and coordination was of utmost importance.
 
 - Multi-lingual
 
 Finished last 3 years of school in French, did an intensive summer course in Spanish and have family and friends in Italy.
 
 - Troubleshooting and attention to detail
+
+I have a good eye for spotting typos, or fragile code. My team mate from my last project still owes me a drink for fixing his delete method and several other minor code breaking issues.
+
 - Problem solving
+
+Besides coding I've always been the one for fixing thing, fixed a radiator, fixed the flush, fixed a shower head, fixed a laptop, list goes on.
+
 - Creative
+
+As a kid I built all kinds of Lego structures, made roman armour out of cardboard and played loads of construction video games which is what pushed me into the direction of graphic design. My major creative streak isn't artistically focused but more functionality focused, I love visualizing new, creative implementations to my creations. A clear and relevant example would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing).
+
 - Productive
 
 ### Education
 
 #### Makers Academy (March 2016 to July 2016)
 
-    - Curiosity and hungry passion for code
-    - Independent learner and problem-solver
-    - OOP, TDD, SOLID, MVC, DDD
-    - Software Craftsmanship
-    - Ruby, Rails, Javascript, Node.js, Angular.js
-    - Rspec, Jasmine, Mocha
+    Disciplines: Independent learning and problem-solving
+    General focus: Software Craftsmanship
+    Main principles: OOP, TDD, SOLID, MVC, DDD
+    Technologies learnt: Ruby, Rails, Javascript, Node.js, Angular.js
+    Testing environments learnt: Rspec, Jasmine and Capybara
 
 #### University for the Creative Arts (September 2012 to June 2015)
 
-    - Graphic Design
-    - Adobe Creative Suite, modern art history, semantics, branding, advertising
-    - 3rd
+    Subject: Graphic Design
+    Focus: Adobe Creative Suite, modern art history, semantics, branding and advertising
+    Grade: 3rd
 
 #### Makers Academy projects
 
