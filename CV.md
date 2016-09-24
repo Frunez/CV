@@ -1,18 +1,18 @@
 # CV
 ## Francesco Nunez Alessi
-Born in Rome and shipped to the UK and then back a bit to Belgium where I finished school. A clueless me decided to make a return back to the UK to study graphic design. Graduated, I started as a freelancer while trying to get a full-time job. In the meantime I worked in a factory, enjoyed that more than freelancing as a graphic designer and thought it was time to move on...
+Born in Rome, I grew up in the UK before heading to Belgium where I finished school. Unsure of what I wanted to do, I decided to return back to the UK to study Graphic Design. After graduating, I began my career as a freelancer whilst trying to get a full-time job. In the meantime I worked in a factory, where I found myself enjoying the work far more than freelancing as a graphic designer, and so I felt that it was time to move on...
 
-Saving money was worth it, did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it was pondering over whether or not we could actually be in the Matrix.
+From this, I did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it, was pondering over whether or not we could actually be in the Matrix.
 
-Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub. Just like Neo I felt that I had woken up saying "I know how to code".
+Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub. Just like Neo, I felt like I had woken up saying "I know how to code".
 
-With new found love for coding I am now looking for a job as a junior developer.
+With my new found love of coding, I am now looking for a job as a junior developer.
 
 ### Skills
 
 - Focused
 
-I had no experience on wood-work and building instruments. Took me three weeks to build an electric guitar body out of Ikea side-tables. Which I assembled into one of my most prized possessions. I named it ["Trikea"](https://www.behance.net/gallery/31988285/Trikea-Old-IKEA-furniture-put-to-good-use).
+I had no experience with wood work and building instruments, however I was determined to create a masterpiece. In three weeks, I learnt to build an electric gutair body out of old Ikea side tables, and assemble them into one of my most prized possessions. I named it ["Trikea"](https://www.behance.net/gallery/31988285/Trikea-Old-IKEA-furniture-put-to-good-use).
 
 - Resourceful
 
@@ -20,27 +20,27 @@ I've also produced a [photographic book](https://www.behance.net/gallery/3200402
 
 - Analytical
 
-If there's anything I've learnt at University, it's not to go head on into over-ambitious projects and work on too many things at once. Breaking things down into steps was the way that I managed to create my final major project in graphic design and all my projects at Makers Academy.
+If there's anything I've learnt at University, it's not to go head on into over-ambitious projects and work on too many things at once. Breaking things down into steps was the way that I managed to create my final major project in Graphic design, as well as my various projects at Makers Academy.
 
 - Team player
 
-Through-out the Makers Academy course I was working in pairs or in teams every day so communication and coordination was of utmost importance.
+Throughout the Makers Academy course I worked in pairs or as a team every day. For me, communication and coordination was of the utmost importance.
 
 - Multi-lingual
 
-Finished last 3 years of school in French, did an intensive summer course in Spanish and have family and friends in Italy.
+I finished the last 3 years of school in French, completed an intensive summer course in Spanish and have family and friends in Italy whom I interact with regularly.
 
 - Troubleshooting and attention to detail
 
-I have a good eye for spotting typos, or fragile code. My team mate from my last project still owes me a drink for fixing his delete method and several other minor code breaking issues.
+I have a good eye for spotting typos, or fragile code. For example, I helped my teammate from our last project fix his delete method and several other minor code breaking issues.
 
 - Problem solving
 
-Besides coding I've always been the one for fixing thing, fixed a radiator, fixed the flush, fixed a shower head, fixed a laptop, list goes on.
+I've always had a knack for fixing things including radiators, a toilet flush, shower head and even my own laptop. This passion for problem solving led me to coding, where I love to reconstruct my own code and help others adjust theirs. 
 
 - Creative
 
-As a kid I built all kinds of Lego structures, made roman armour out of cardboard and played loads of construction video games which is what pushed me into the direction of graphic design. My major creative streak isn't artistically focused but more functionality focused, I love visualizing new, creative implementations to my creations. A clear and relevant example would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing).
+As a child I built lego sculptures, crafted Roman armour out of cardboard and played some of the 90's most infamous video games, which eventually led me into the direction of graphic design. My creative streak isn't necessarily artistically focused, but is more driven towards functionality. I enjoy visualizing new and stimulating implementations to my creations. A key example of this would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing).
 
 - Productive
 
@@ -58,7 +58,7 @@ As a kid I built all kinds of Lego structures, made roman armour out of cardboar
 
     Subject: Graphic Design
     Focus: Adobe Creative Suite, modern art history, semantics, branding and advertising
-    Grade: 3rd
+  
 
 #### Makers Academy projects
 
@@ -79,4 +79,4 @@ Freelance graphic designer (July 2015 - June 2016)
 
 ### Hobbies
 
-Although I've decided to stop my pursuit of a career in graphic design, that hasn't stopped from experimenting creatively, and most recently I've delved into 3D graphics. I've played guitar for 9 years, and I love to produce my own music, inspired by the likes of Flying Lotus and many other artists across all genres. I also like to do some DIY because if I can make it myself, why buy it?  
+Although I've decided to stop my pursuit of a career in graphic design, this hasn't stopped from experimenting. Most recently I have delved into 3D graphics. I've played guitar for 9 years, and I love to produce my own music. I am inspired by the likes of Flying Lotus and Radiohead, as well as many other artists across all genres. I also like to do DIY because I believe that if I can make something myself, then there really is no reason to buy it.   
