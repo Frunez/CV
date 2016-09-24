@@ -42,8 +42,6 @@ I've always had a knack for fixing things including radiators, a toilet flush, s
 
 As a child I built lego sculptures, crafted Roman armour out of cardboard and played some of the 90's most infamous video games, which eventually led me into the direction of graphic design. My creative streak isn't necessarily artistically focused, but is more driven towards functionality. I enjoy visualizing new and stimulating implementations to my creations. A key example of this would be [this diagram](https://drive.google.com/file/d/0B8j1h64XKkhAdml1U0JsYWEzUE0/view?usp=sharing).
 
-- Productive
-
 ### Education
 
 #### Makers Academy (March 2016 to July 2016)
