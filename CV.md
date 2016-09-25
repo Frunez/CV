@@ -64,7 +64,7 @@ As a child I built lego sculptures, crafted Roman armour out of cardboard and pl
 |------|-------------|--------------|
 | [Devine](https://devine-github.herokuapp.com/) | A social web app for github users to network and communicate easily and efficiently | Ruby Rails, RSpec, Capybara, CSS/SASS |
 | [Comic Strip Builder](https://github.com/Rob-rls/comic-builder) | A web app where users can upload photos or pictures and add captions to create comic strips or storyboards | Ruby Rails, RSpec, CSS |
-| [Yelp Clone](https://github.com/Frunez/yalp/tree/master/yelp_clone) | A knock-off of Yelp for reserving and reviewing (fake) bed and breakfasts | Ruby Rails, RSpec, CSS |
+| [Yelp Clone](https://yalp-fake-yelp.herokuapp.com) | A knock-off of Yelp for reserving and reviewing (fake) bed and breakfasts | Ruby Rails, RSpec, CSS |
 | [Thermostat](https://github.com/Frunez/thermostat) | A thermostat app, don't worry it won't do anything | Javascript, Jasmine |
 
 
