@@ -49,7 +49,7 @@ As a child I built lego sculptures, crafted Roman armour out of cardboard and pl
     Disciplines: Independent learning and problem-solving
     General focus: Software Craftsmanship
     Main principles: OOP, TDD, SOLID, MVC, DDD
-    Technologies learnt: Ruby, Rails, Javascript, Node.js, Angular.js
+    Technologies learnt: Ruby, Rails, Javascript, Node.js
     Testing environments learnt: Rspec, Jasmine and Capybara
 
 #### University for the Creative Arts (September 2012 to June 2015)
