@@ -1,10 +1,11 @@
 # CV
 ## Francesco Nunez Alessi
-Born in Rome, I grew up in the UK before heading to Belgium where I finished school. Unsure of what I wanted to do, I decided to return back to the UK to study Graphic Design. After graduating, I began my career as a freelancer whilst trying to get a full-time job. In the meantime I worked in a factory, where I found myself enjoying the work far more than freelancing as a graphic designer, and so I felt that it was time to move on...
 
-From this, I did a full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it, was pondering over whether or not we could actually be in the Matrix.
+Born in Rome, I grew up in the UK before heading to Belgium where I finished school. Unsure of what I wanted to do, I decided to return back to the UK to study Graphic Design. After graduating, I began my career as a freelancer working for various clients on websites, logos and brochures. 
 
-Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub. Just like Neo, I felt like I had woken up saying "I know how to code".
+After working alot with websites I realised the value of coding and how it could advance my career, which is how I went on to doing full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it, was pondering over whether or not we could actually be in the Matrix.
+
+Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub.
 
 With my new found love of coding, I am now looking for a job as a junior developer.
 
@@ -49,7 +50,7 @@ As a child I built lego sculptures, crafted Roman armour out of cardboard and pl
     Disciplines: Independent learning and problem-solving
     General focus: Software Craftsmanship
     Main principles: OOP, TDD, SOLID, MVC, DDD
-    Technologies learnt: Ruby, Rails, Javascript, Node.js
+    Technologies learnt: Ruby, Rails, Javascript, Node.js, Bootstrap, CSS
     Testing environments learnt: Rspec, Jasmine and Capybara
 
 ##### University for the Creative Arts (September 2012 to June 2015)
@@ -71,17 +72,20 @@ As a child I built lego sculptures, crafted Roman armour out of cardboard and pl
 
 ### Experience
 
+Freelance graphic designer (July 2015 - Present)
+
+    - Created concept website, profile pictures and banners for Skin Soul's event Skin Matters 2017.
+    - Redesigned the web page using droopal platform for ECH (Energy Climate house).
+    - Edited, reformatted and resized product images for Autograph's Regent Street App.
+    - Made and edited photographs of products for a beauty magazine.
+    - Created a book cover and some logos for CEPS (Centre for European Policy Studies.
+    - Illustrated a children's book called Bear & Chick for an independent writer.
+
 Warehouse operative (March 2016 - June 2016)
 
     - Worked in a team packaging and labelling luxury products for Fortnam and Mason.
     - Worked at AIM composites, coating and polishing interior air plane parts to perfection.
 
-Freelance graphic designer (July 2015 - June 2016)
-
-    - Made and edited photographs of products for a beauty magazine.
-    - Created a book cover and some logos for CEPS.
-    - Illustrated a children's book called Bear & Chick for an independent writer.
-
 ### Hobbies
 
-Although I've decided to stop my pursuit of a career in graphic design, this hasn't stopped from experimenting. Most recently I have delved into 3D graphics. I've played guitar for 9 years, and I love to produce my own music. I am inspired by the likes of Flying Lotus and Radiohead, as well as many other artists across all genres. I also like to do DIY because I believe that if I can make something myself, then there really is no reason to buy it.
+Most recently I have delved into 3D graphics. I've played guitar for 9 years, and I love to produce my own music. I made my own electric guitar body and created a custom setup. I recently purchased a Rasberry Pi and would eventually like to meddle with some robotics.  
