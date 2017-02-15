@@ -3,7 +3,7 @@
 
 Born in Rome, I grew up in the UK before heading to Belgium where I finished school. Unsure of what I wanted to do, I decided to return back to the UK to study Graphic Design. After graduating, I began my career as a freelancer working for various clients on websites, logos and brochures. 
 
-After working alot with websites I realised the value of coding and how it could advance my career, which is how I went on to doing full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed. The most I ever thought about it, was pondering over whether or not we could actually be in the Matrix.
+After working a lot with websites I realised the value of coding and how it could advance my career, which is how I went on to doing full-time 3 month intensive web development course at Makers Academy and loved every minute of it. At first I didn't know anything about coding except that it existed.
 
 Now I've made about 5 different web applications including a comic-strip builder and a social hub for developers on GitHub.
 
@@ -13,11 +13,11 @@ With my new found love of coding, I am now looking for a job as a junior develop
 
 - Focused
 
-I had no experience with wood work and building instruments, however I was determined to create a masterpiece. In three weeks, I learnt to build an electric gutair body out of old Ikea side tables, and assemble them into one of my most prized possessions. I named it ["Trikea"](https://www.behance.net/gallery/31988285/Trikea-Old-IKEA-furniture-put-to-good-use).
+I had no experience with wood work and building instruments, however I was determined to make my own guitar body and assemble my dream guitar. In three weeks, I created an electric gutair body out of old Ikea side tables, and assemble them into one of my most prized possessions. I named it ["Trikea"](http://fna.design/trikea).
 
 - Resourceful
 
-I've also produced a [photographic book](https://www.behance.net/gallery/32004029/Transiendence), created entirely from my own work. I taught myself how to [design in 3D](https://www.behance.net/gallery/32002401/3D-Modelling-With-Blender), play guitar and [produce music](https://soundcloud.com/temka1991).
+I've also produced a [photographic book](https://www.behance.net/gallery/32004029/Transiendence), created entirely from my own work. I also taught myself how to [design in 3D](https://www.behance.net/gallery/32002401/3D-Modelling-With-Blender), play guitar and [produce music](https://soundcloud.com/temka1991).
 
 - Analytical
 
@@ -25,11 +25,11 @@ If there's anything I've learnt at University, it's not to go head on into over-
 
 - Team player
 
-Throughout the Makers Academy course I worked in pairs or as a team every day. For me, communication and coordination was of the utmost importance.
+Throughout the Makers Academy course I worked in pairs or as a team every day which I really enjoyed. For me, communication and coordination was of the utmost importance.
 
 - Multi-lingual
 
-I finished the last 3 years of school in French, completed an intensive summer course in Spanish and have family and friends in Italy whom I interact with regularly.
+I finished the last 3 years of school in French, completed an intensive summer course in Spanish and have family and friends in Italy with whom I interact with regularly.
 
 - Troubleshooting and attention to detail
 
@@ -66,7 +66,7 @@ As a child I built lego sculptures, crafted Roman armour out of cardboard and pl
 | [Devine](https://devine-github.herokuapp.com/) | A social web app for github users to network and communicate easily and efficiently | Ruby Rails, RSpec, Capybara, CSS/Bootstrap |
 | [Comic Strip Builder](http://comic-builder.herokuapp.com/) | A web app where users can upload photos or pictures and add captions to create comic strips or storyboards | Ruby Rails, RSpec, CSS |
 | [Yalp](https://yalp-fake-yelp.herokuapp.com/) | A knock-off of Yelp for reviewing (fake) bed and breakfasts | Ruby Rails, RSpec, CSS |
-| [Thermostat](https://github.com/Frunez/thermostat) | A thermostat app, don't worry it won't do anything | Javascript, Jasmine |
+| [Thermostat](https://github.com/Frunez/thermostat) | A thermostat app with some interesting functions | Javascript, Jasmine |
 
 
 
